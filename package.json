@@ -1,0 +1,27 @@
+{
+  "name": "gulp-ssi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "cross-env NODE_ENV=development gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mono-note/gulp-ssi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cxteam/browsersync-ssi": "^0.2.8",
+    "browser-sync": "^2.26.7",
+    "cross-env": "^7.0.2",
+    "gulp": "^4.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/mono-note/gulp-ssi/issues"
+  },
+  "homepage": "https://github.com/mono-note/gulp-ssi#readme"
+}
